@@ -1,0 +1,37 @@
+{
+    "LocalizeAppNameOnAndroid": true,
+    "LocalizeAppIconOnAndroid": true,
+    "LocalizeAppNameOniOS": false,
+    "LocalizeAppIconOniOS": false,
+    "LocalizedData": [
+        {
+            "LanguageCode": "EN",
+            "AppName": "Three Solve",
+            "AppShortName": "",
+            "AndroidIcon": {
+                "fileID": 2800000,
+                "guid": "0f4aa99223ba3e048bd6b51e1ded0ae6",
+                "type": 3
+            },
+            "iOSIcon": {
+                "instanceID": 0
+            }
+        },
+        {
+            "LanguageCode": "RU",
+            "AppName": "OneX",
+            "AppShortName": "",
+            "AndroidIcon": {
+                "fileID": 2800000,
+                "guid": "27de9ef92a8a6fb4ab19da90d2f46ceb",
+                "type": 3
+            },
+            "iOSIcon": {
+                "instanceID": 0
+            }
+        }
+    ],
+    "DefaultLocalizedData": 0,
+    "AndroidNameResource": "app_name",
+    "AndroidIconResource": "app_icon"
+}
